@@ -1,6 +1,4 @@
-UVA Problems
-============
+Programmation Problems
+======================
 
-Some solutions for programming challenges from [UVA Online Judge](http://uva.onlinejudge.org/)
-
-
+Solutions to problems from online judge websites like [Code Chef](http://www.codechef.com/), [Sphere Online Judge](http://www.spoj.com/), ...
