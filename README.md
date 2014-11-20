@@ -6,4 +6,5 @@ If you come accross this and have advice or comments on how some solutions could
 
 
 * palin.ml : ocaml solution of the [next palindrome problem](http://www.spoj.com/problems/PALIN/) from SPOJ
+* sudoku : ocaml sudoku solver
 
