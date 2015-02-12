@@ -1,5 +1,6 @@
 /*
 *https://oj.leetcode.com/problems/combinations/
+*code by Pierre Galland
 *Simple recursive solution
 */
 public class Solution {
