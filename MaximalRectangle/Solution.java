@@ -1,5 +1,5 @@
 /* https://oj.leetcode.com/problems/maximal-rectangle/
- * 
+ * solution by Pierre Galland
  * At each iteration on j :
  * bottom[i][k] is the number of lines of the largest rectangle with
  * top-left (i,j), top-right(i,j+k), extending on the bottom,
