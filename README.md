@@ -1,7 +1,7 @@
 Programmation Problems
 ======================
 
-Solutions to problems from online judge websites like [Code Chef](http://www.codechef.com/), [Sphere Online Judge](http://www.spoj.com/), ...
+Solutions to problems from online judge websites
 If you come accross this and have advice or comments on how some solutions could have been done better, it's welcome.
 
 
